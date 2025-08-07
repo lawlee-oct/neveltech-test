@@ -1,0 +1,17 @@
+export { default as Slider1 } from "./slider_1.svg";
+export { default as FreeToEarn } from "./free_to_earn.svg";
+export { default as HowToBuy } from "./how_to_buy.svg";
+export { default as NewNfts } from "./new_nfts.svg";
+export { default as Ranking } from "./ranking.svg";
+export { default as Roadmaps } from "./roadmaps.svg";
+export { default as VideoNft } from "./video_nft.svg";
+export { default as NewNft1 } from "./new_nft_1.png";
+export { default as NewNft2 } from "./new_nft_2.png";
+export { default as NewNft3 } from "./new_nft_3.png";
+export { default as NewNft4 } from "./new_nft_4.png";
+export { default as NewNft5 } from "./new_nft_5.png";
+export { default as NewNft6 } from "./new_nft_6.png";
+export { default as NewNft7 } from "./new_nft_7.png";
+export { default as NftDrops1 } from "./nft_drops_1.png";
+export { default as HotNft } from "./hot_nft.png";
+export { default as Promotion } from "./promotion.png";

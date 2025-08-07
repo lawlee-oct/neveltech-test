@@ -1,0 +1,66 @@
+.root-spin {
+  height: 100%;
+  width: 100%;
+
+  div:first-child {
+    .ant-spin-spinning {
+      max-height: unset;
+    }
+  }
+
+  .ant-spin-container {
+    height: 100%;
+    width: 100%;
+  }
+
+  .ant-spin-blur {
+    opacity: 0;
+  }
+}
+
+.ant-layout {
+  background-color: transparent;
+}
+
+.ant-drawer {
+  height: calc(100vh - 60px);
+  top: 60px;
+
+  .ant-drawer-content {
+    background: #1f2023;
+  }
+}
+
+.ant-tabs-nav {
+  margin-bottom: 0;
+
+  .ant-tabs-tab {
+    padding: 10px 15px;
+    color: #ffffff;
+    margin-left: 0;
+    border-radius: 100px;
+    transition: background-color 0.3s ease;
+
+    &:hover:not(.ant-tabs-tab-active) {
+      background-color: #ffc700;
+      color: #000;
+    }
+  }
+
+  .ant-tabs-tab-active {
+    background-color: #383a42;
+    border-radius: 100px;
+
+    .ant-tabs-tab-btn {
+      color: #ffc700;
+    }
+  }
+
+  .ant-tabs-ink-bar {
+    display: none;
+  }
+
+  &::before {
+    display: none;
+  }
+}
