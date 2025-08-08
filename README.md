@@ -1,7 +1,10 @@
 # Neveltech Test Project
 [Image Project](https://github.com/user-attachments/assets/dbe60c12-1f15-4f01-ab69-429099c1ec26)
-Dự án React + TypeScript sử dụng Vite làm build tool với các tính năng hiện đại như styled-components, Ant Design, và React Router.
 
+
+
+- **Dự án React + TypeScript sử dụng Vite làm build tool với các tính năng hiện đại như styled-components, Ant Design, và React Router.**
+- **Dự án được deploy lên URL sau: https://neveltech-test-snowy.vercel.app/**
 
 ## 📋 Yêu cầu hệ thống
 
