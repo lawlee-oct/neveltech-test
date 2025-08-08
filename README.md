@@ -133,7 +133,3 @@ npm run lint
 - Hỗ trợ **Hot Module Replacement (HMR)** để development nhanh hơn
 - Có cấu hình **TypeScript strict mode** để đảm bảo type safety
 - Sử dụng **Less** cho styling với support cho CSS modules
-
-## 📄 License
-
-Dự án này được phát triển bởi Lê Quang Bảo Lâm.
